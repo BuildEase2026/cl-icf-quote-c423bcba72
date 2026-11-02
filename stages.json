@@ -1,0 +1,71 @@
+{
+ "job": "Clifton College Garage Site, Clifton Park Road, Bristol",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation and ground floor slab",
+   "desc": "The 2-course 6in XR35 foundation with the Nudura Brick Ledge for the natural stone outer leaf (on a strip footing, by others) and the ground-bearing slab with insulation and screed (indicative).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 232504
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor walls, windows and partitions",
+   "desc": "Ground-floor 6in XR35 walls (7 courses) with the bay, porch and the internal load-bearing walls; windows, the sliding doors and the entrance doors (indicative); timber stud partitions with pattressing in the WC / utility.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 780876
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS10 metal-web first floor with the indicative steels (engineer), the oriel corbel and the stairs; the GF flat roofs (wrap, porch, bay) inside their ICF parapets; first-floor walls, windows and partitions.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 849848
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Second floor, gables and oriel",
+   "desc": "PS10 metal-web second floor; the 2F walls with the front and rear parapet gables, the wing gable and the oriel, raked to the 50 degree roof; second-floor windows. The 2F partitions sit under the sloping ceiling and are not modelled (BOQ assumption).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 558976
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 55680
+    }
+   ]
+  }
+ ]
+}

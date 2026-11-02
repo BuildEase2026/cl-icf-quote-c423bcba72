@@ -1,0 +1,416 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Cuckfield Real Estate Ltd",
+  "job": "Clifton College Garage Site, Clifton Park Road, Bristol",
+  "number_prefix": "ES26-065",
+  "status": "QUOTATION",
+  "revision": "",
+  "model_title": "ES26-065 Clifton College Garage Site, Clifton Park Road, Bristol - Quotation"
+ },
+ "default_view": "stage-5",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Foundation and ground floor slab",
+   "desc": "The 2-course 6in XR35 foundation with the Nudura Brick Ledge for the natural stone outer leaf (on a strip footing, by others) and the ground-bearing slab with insulation and screed (indicative).",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground floor walls, windows and partitions",
+   "desc": "Ground-floor 6in XR35 walls (7 courses) with the bay, porch and the internal load-bearing walls; windows, the sliding doors and the entrance doors (indicative); timber stud partitions with pattressing in the WC / utility.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS10 metal-web first floor with the indicative steels (engineer), the oriel corbel and the stairs; the GF flat roofs (wrap, porch, bay) inside their ICF parapets; first-floor walls, windows and partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "Second floor, gables and oriel",
+   "desc": "PS10 metal-web second floor; the 2F walls with the front and rear parapet gables, the wing gable and the oriel, raked to the 50 degree roof; second-floor windows. The 2F partitions sit under the sloping ceiling and are not modelled (BOQ assumption).",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 5,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 5,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 5,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 5,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Foundation and ground floor slab",
+   "desc": "The 2-course 6in XR35 foundation with the Nudura Brick Ledge for the natural stone outer leaf (on a strip footing, by others) and the ground-bearing slab with insulation and screed (indicative).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 232504
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor walls, windows and partitions",
+   "desc": "Ground-floor 6in XR35 walls (7 courses) with the bay, porch and the internal load-bearing walls; windows, the sliding doors and the entrance doors (indicative); timber stud partitions with pattressing in the WC / utility.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 780876
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor",
+   "desc": "PS10 metal-web first floor with the indicative steels (engineer), the oriel corbel and the stairs; the GF flat roofs (wrap, porch, bay) inside their ICF parapets; first-floor walls, windows and partitions.",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 849848
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Second floor, gables and oriel",
+   "desc": "PS10 metal-web second floor; the 2F walls with the front and rear parapet gables, the wing gable and the oriel, raked to the 50 degree roof; second-floor windows. The 2F partitions sit under the sloping ceiling and are not modelled (BOQ assumption).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 558976
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 55680
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Nudura proposal (NET GBP 22,628.39: materials, pre-cut, alignment hire, haulage 2 artics - estimate), the BOQ package, the artic load plans and the pallet stack sheets.",
+   "zip": {
+    "file": "downloads/ES26-065 Quotation.zip",
+    "bytes": 1146362,
+    "count": 4
+   },
+   "docs": [
+    {
+     "id": "ES26-065-LP-01",
+     "title": "Artic load plans - 2 loads in 2 deliveries",
+     "file": "docs/quote/ES26-065-LP-01 Artic load plans - 2 loads in 2 deliveries.pdf",
+     "pages": 2,
+     "thumb": "thumbs/ES26-065-LP-01.png",
+     "bytes": 34104,
+     "number": "ES26-065-LP-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-PR-01",
+     "title": "Quotation - Nudura ICF supply",
+     "file": "docs/quote/ES26-065-PR-01 Quotation - Nudura ICF supply.pdf",
+     "pages": 4,
+     "thumb": "thumbs/ES26-065-PR-01.png",
+     "bytes": 370597,
+     "number": "ES26-065-PR-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-PS-01",
+     "title": "Pallet stack sheets - 18 pallets",
+     "file": "docs/quote/ES26-065-PS-01 Pallet stack sheets - 18 pallets.pdf",
+     "pages": 18,
+     "thumb": "thumbs/ES26-065-PS-01.png",
+     "bytes": 266723,
+     "number": "ES26-065-PS-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-XI-01",
+     "title": "BOQ package - ICF, programme and finishes (Excel)",
+     "file": "downloads/ES26-065 BOQ Package.xlsx",
+     "pages": 24,
+     "thumb": "thumbs/ES26-065-XI-01.png",
+     "bytes": 1452135,
+     "number": "ES26-065-XI-01",
+     "kind": "xlsx",
+     "preview": "xls/boq.html",
+     "tabs": 24,
+     "subtitle": "Excel workbook - live preview, enter rates"
+    }
+   ]
+  },
+  {
+   "id": "icf",
+   "title": "ICF drawings",
+   "note": "ICF general arrangements (foundation and each storey), elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-065 ICF drawings.zip",
+    "bytes": 847002,
+    "count": 7
+   },
+   "docs": [
+    {
+     "id": "ES26-065-GA-01",
+     "title": "Footing ICF General Arrangement",
+     "file": "docs/icf/ES26-065-GA-01 Footing ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-GA-01.png",
+     "bytes": 57116,
+     "number": "ES26-065-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-GA-02",
+     "title": "Ground Floor ICF General Arrangement",
+     "file": "docs/icf/ES26-065-GA-02 Ground Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-GA-02.png",
+     "bytes": 69274,
+     "number": "ES26-065-GA-02",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-GA-03",
+     "title": "First Floor ICF General Arrangement",
+     "file": "docs/icf/ES26-065-GA-03 First Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-GA-03.png",
+     "bytes": 67941,
+     "number": "ES26-065-GA-03",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-GA-04",
+     "title": "Second Floor ICF General Arrangement",
+     "file": "docs/icf/ES26-065-GA-04 Second Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-GA-04.png",
+     "bytes": 59061,
+     "number": "ES26-065-GA-04",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-EL-01",
+     "title": "North and South Elevations",
+     "file": "docs/icf/ES26-065-EL-01 North and South Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-EL-01.png",
+     "bytes": 199800,
+     "number": "ES26-065-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-EL-02",
+     "title": "East and West Elevations",
+     "file": "docs/icf/ES26-065-EL-02 East and West Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-EL-02.png",
+     "bytes": 506536,
+     "number": "ES26-065-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-SE-01",
+     "title": "Section A-A",
+     "file": "docs/icf/ES26-065-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-SE-01.png",
+     "bytes": 94087,
+     "number": "ES26-065-SE-01",
+     "view": "stage-5",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "timber",
+   "title": "Floors, roof and partitions",
+   "note": "The floors and steels, the roof structure and the timber partitions (coordination only).",
+   "zip": {
+    "file": "downloads/ES26-065 Floors, roof and partitions.zip",
+    "bytes": 455830,
+    "count": 7
+   },
+   "docs": [
+    {
+     "id": "ES26-065-FL-01",
+     "title": "Ground Floor Slab and Flat Roofs",
+     "file": "docs/timber/ES26-065-FL-01 Ground Floor Slab and Flat Roofs.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-FL-01.png",
+     "bytes": 68260,
+     "number": "ES26-065-FL-01",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-FL-02",
+     "title": "First Floor Structure",
+     "file": "docs/timber/ES26-065-FL-02 First Floor Structure.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-FL-02.png",
+     "bytes": 137171,
+     "number": "ES26-065-FL-02",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-FL-03",
+     "title": "Second Floor Structure",
+     "file": "docs/timber/ES26-065-FL-03 Second Floor Structure.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-FL-03.png",
+     "bytes": 112704,
+     "number": "ES26-065-FL-03",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-RF-01",
+     "title": "Roof Structure",
+     "file": "docs/timber/ES26-065-RF-01 Roof Structure.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-RF-01.png",
+     "bytes": 65697,
+     "number": "ES26-065-RF-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-TF-01",
+     "title": "Ground Floor Timber Partitions",
+     "file": "docs/timber/ES26-065-TF-01 Ground Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-TF-01.png",
+     "bytes": 64298,
+     "number": "ES26-065-TF-01",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-TF-02",
+     "title": "First Floor Timber Partitions",
+     "file": "docs/timber/ES26-065-TF-02 First Floor Timber Partitions.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-TF-02.png",
+     "bytes": 62837,
+     "number": "ES26-065-TF-02",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-065-TF-03",
+     "title": "Second Floor Partitions (assumed)",
+     "file": "docs/timber/ES26-065-TF-03 Second Floor Partitions (assumed).pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-065-TF-03.png",
+     "bytes": 56532,
+     "number": "ES26-065-TF-03",
+     "view": "stage-2",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [],
+ "download_all": {
+  "file": "downloads/ES26-065 Clifton College Garage Site, Clifton Park Road, Bristol - Quotation.zip",
+  "bytes": 2449294,
+  "count": 18,
+  "title": "Download everything"
+ }
+}
