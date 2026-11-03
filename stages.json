@@ -24,7 +24,7 @@
      "glb": "stage-2.glb",
      "part": null,
      "label": null,
-     "bytes": 780876
+     "bytes": 780872
     }
    ]
   },
@@ -37,7 +37,7 @@
      "glb": "stage-3.glb",
      "part": null,
      "label": null,
-     "bytes": 849848
+     "bytes": 822156
     }
    ]
   },
@@ -50,20 +50,20 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 558976
+     "bytes": 548832
     }
    ]
   },
   {
    "n": 5,
    "title": "Roof structure",
-   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, carried over the main slopes on lay boards with diminishing rafters @400 from their ridges; C24 rafters @400, clay double Roman tiles (per the elevations).",
    "files": [
     {
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 55680
+     "bytes": 60304
     }
    ]
   }

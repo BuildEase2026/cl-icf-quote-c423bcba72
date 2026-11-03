@@ -47,7 +47,7 @@
    "kind": "stage",
    "n": 5,
    "title": "Roof structure",
-   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, carried over the main slopes on lay boards with diminishing rafters @400 from their ridges; C24 rafters @400, clay double Roman tiles (per the elevations).",
    "focus": false
   },
   {
@@ -122,7 +122,7 @@
      "glb": "stage-2.glb",
      "part": null,
      "label": null,
-     "bytes": 780876
+     "bytes": 780872
     }
    ]
   },
@@ -135,7 +135,7 @@
      "glb": "stage-3.glb",
      "part": null,
      "label": null,
-     "bytes": 849848
+     "bytes": 822156
     }
    ]
   },
@@ -148,20 +148,20 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 558976
+     "bytes": 548832
     }
    ]
   },
   {
    "n": 5,
    "title": "Roof structure",
-   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, valleyed into the main slopes; C24 rafters @400, clay double Roman tiles (per the elevations).",
+   "desc": "Cut roofs (indicative - engineer): the main 50 degree roof between the parapet gables, the wing B cross gable and the oriel dormer, carried over the main slopes on lay boards with diminishing rafters @400 from their ridges; C24 rafters @400, clay double Roman tiles (per the elevations).",
    "files": [
     {
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 55680
+     "bytes": 60304
     }
    ]
   }
@@ -170,10 +170,10 @@
   {
    "id": "quote",
    "title": "Quotation",
-   "note": "The Nudura proposal (NET GBP 22,628.39: materials, pre-cut, alignment hire, haulage 2 artics - estimate), the BOQ package, the artic load plans and the pallet stack sheets.",
+   "note": "The Nudura proposal (NET GBP 22,559.08: materials, pre-cut, alignment hire, haulage 2 artics - estimate), the BOQ package, the artic load plans and the pallet stack sheets.",
    "zip": {
     "file": "downloads/ES26-065 Quotation.zip",
-    "bytes": 1146362,
+    "bytes": 1143434,
     "count": 4
    },
    "docs": [
@@ -183,7 +183,7 @@
      "file": "docs/quote/ES26-065-LP-01 Artic load plans - 2 loads in 2 deliveries.pdf",
      "pages": 2,
      "thumb": "thumbs/ES26-065-LP-01.png",
-     "bytes": 34104,
+     "bytes": 34103,
      "number": "ES26-065-LP-01",
      "view": "stage-5",
      "view_opts": {}
@@ -194,7 +194,7 @@
      "file": "docs/quote/ES26-065-PR-01 Quotation - Nudura ICF supply.pdf",
      "pages": 4,
      "thumb": "thumbs/ES26-065-PR-01.png",
-     "bytes": 370597,
+     "bytes": 369468,
      "number": "ES26-065-PR-01",
      "view": "stage-5",
      "view_opts": {}
@@ -205,7 +205,7 @@
      "file": "docs/quote/ES26-065-PS-01 Pallet stack sheets - 18 pallets.pdf",
      "pages": 18,
      "thumb": "thumbs/ES26-065-PS-01.png",
-     "bytes": 266723,
+     "bytes": 264845,
      "number": "ES26-065-PS-01",
      "view": "stage-5",
      "view_opts": {}
@@ -216,7 +216,7 @@
      "file": "downloads/ES26-065 BOQ Package.xlsx",
      "pages": 24,
      "thumb": "thumbs/ES26-065-XI-01.png",
-     "bytes": 1452135,
+     "bytes": 1447919,
      "number": "ES26-065-XI-01",
      "kind": "xlsx",
      "preview": "xls/boq.html",
@@ -231,7 +231,7 @@
    "note": "ICF general arrangements (foundation and each storey), elevations and a section.",
    "zip": {
     "file": "downloads/ES26-065 ICF drawings.zip",
-    "bytes": 847002,
+    "bytes": 862699,
     "count": 7
    },
    "docs": [
@@ -263,7 +263,7 @@
      "file": "docs/icf/ES26-065-GA-03 First Floor ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-GA-03.png",
-     "bytes": 67941,
+     "bytes": 67616,
      "number": "ES26-065-GA-03",
      "view": "stage-3",
      "view_opts": {}
@@ -274,7 +274,7 @@
      "file": "docs/icf/ES26-065-GA-04 Second Floor ICF General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-GA-04.png",
-     "bytes": 59061,
+     "bytes": 59513,
      "number": "ES26-065-GA-04",
      "view": "stage-4",
      "view_opts": {}
@@ -285,7 +285,7 @@
      "file": "docs/icf/ES26-065-EL-01 North and South Elevations.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-EL-01.png",
-     "bytes": 199800,
+     "bytes": 209579,
      "number": "ES26-065-EL-01",
      "view": "elev-N",
      "view_opts": {}
@@ -296,7 +296,7 @@
      "file": "docs/icf/ES26-065-EL-02 East and West Elevations.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-EL-02.png",
-     "bytes": 506536,
+     "bytes": 513174,
      "number": "ES26-065-EL-02",
      "view": "elev-E",
      "view_opts": {}
@@ -307,7 +307,7 @@
      "file": "docs/icf/ES26-065-SE-01 Section A-A.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-SE-01.png",
-     "bytes": 94087,
+     "bytes": 97284,
      "number": "ES26-065-SE-01",
      "view": "stage-5",
      "view_opts": {}
@@ -320,7 +320,7 @@
    "note": "The floors and steels, the roof structure and the timber partitions (coordination only).",
    "zip": {
     "file": "downloads/ES26-065 Floors, roof and partitions.zip",
-    "bytes": 455830,
+    "bytes": 456883,
     "count": 7
    },
    "docs": [
@@ -363,7 +363,7 @@
      "file": "docs/timber/ES26-065-RF-01 Roof Structure.pdf",
      "pages": 1,
      "thumb": "thumbs/ES26-065-RF-01.png",
-     "bytes": 65697,
+     "bytes": 67002,
      "number": "ES26-065-RF-01",
      "view": "stage-5",
      "view_opts": {}
@@ -409,7 +409,7 @@
  "toggles": [],
  "download_all": {
   "file": "downloads/ES26-065 Clifton College Garage Site, Clifton Park Road, Bristol - Quotation.zip",
-  "bytes": 2449294,
+  "bytes": 2463116,
   "count": 18,
   "title": "Download everything"
  }
